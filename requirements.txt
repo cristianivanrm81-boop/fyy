@@ -1,0 +1,2 @@
+discord.py==2.3.2
+# All other deps are stdlib: asyncio, json, time, base64, pathlib, urllib, io, signal
